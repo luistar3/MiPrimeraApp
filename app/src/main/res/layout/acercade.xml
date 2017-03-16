@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/TextView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:text="Este programa a sido desarrollado como ejemplo en la asignatura de soluciones moviles para demostrar como se pueden lanza nuevas actividades desde la actividad principal" />
